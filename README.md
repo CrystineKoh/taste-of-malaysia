@@ -6,3 +6,4 @@ Taste of Malaysia is a website that showcases the diverse and exquisite flavors 
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [App Overview](#app-overview)
