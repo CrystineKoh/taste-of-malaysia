@@ -42,4 +42,4 @@ Taste of Malaysia is a web application that introduces users to the authentic Ma
 ## App Overview
 
 This page displays the promotion banner and all the products on the website.
-<img src ="assets/chicken.png">
+<img src ="assets/overview.png">
